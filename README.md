@@ -1,5 +1,7 @@
 # StyleGAN Latent Traversal 
 
+Main Notebook: https://github.com/jddl68/stylegan-encoder/blob/master/BedroomLatentTraversal.ipynb
+
 Exploration of the application of TL-GAN latent traversal techniques on StyleGAN trained on the LSUN Bedroom Dataset
 * TL-GAN: https://blog.insightdatascience.com/generating-custom-photo-realistic-faces-using-ai-d170b1b59255
 * TL-GAN Github: https://github.com/SummitKwan/transparent_latent_gan
