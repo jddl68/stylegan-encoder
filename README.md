@@ -12,3 +12,9 @@ Hooks into StyleGAN were forked from Puzer's own StyleGAN Encoder project
 
 Completed as final project for EE 298: Machine Learning in the Electronics and Electrical Engineering Institute, University of the Philippines Diliman.
 * Presentation Slides: https://docs.google.com/presentation/d/1WgXaPKzSyPgeufky7sP4xnoXmO7OyQ5J_AF1Jnecj0E/edit?usp=sharing
+
+# Sample Traversals
+
+![Sample 1](https://github.com/jddl68/stylegan-encoder/blob/master/sample1.gif)
+![Sample 2](https://github.com/jddl68/stylegan-encoder/blob/master/sample2.gif)
+![Sample 3](https://github.com/jddl68/stylegan-encoder/blob/master/sample3.gif)
